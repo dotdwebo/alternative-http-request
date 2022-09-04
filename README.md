@@ -40,3 +40,5 @@ I have written the required libraries in package.json so you can simply execute 
 ```
 npm update
 ```
+
+I'm using the sample API from api.nasa.gov. To execute the code, you need to get DEMO_KEY from api.nasa.gov by registering first. You can use APIs from various sources as well.
