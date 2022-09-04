@@ -2,7 +2,7 @@
 ### Learning Some Alternatives Libraries for Making HTTP Request
 
 
-Here you can try 4 libraries for making HTTP Requests. These modules include:
+Here you can try four libraries for making HTTP Requests. These libraries include:
 ***
 ### HTTPS
 
