@@ -1,0 +1,16 @@
+{
+  "name": "httpreq",
+  "version": "1.0.0",
+  "description": "HTTP Request",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dwebo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "https": "^1.0.0",
+    "request": "^2.81.0",
+    "superagent": "^8.0.0"
+  }
+}
